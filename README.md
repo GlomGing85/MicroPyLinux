@@ -1,5 +1,10 @@
-# MicroPyLinux
-A full Linux-like OS written in Python!
+<p align="center">
+  <img
+    src="./assets/CardBanner.png"
+    alt="MicroPyLinux — Linux-like OS written in Python"
+    width="100%"
+  >
+</p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Made with Arena.ai Agent](./assets/badges/arena-agent.svg)](https://arena.ai/agent)
 
