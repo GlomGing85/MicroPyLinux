@@ -23,5 +23,6 @@
 | Windows | Expected to work |
 | iOS | Untested; may require additional work |
 
-> [!Info]
+> [!Note]
+> 
 > Under construction... 🏗 
