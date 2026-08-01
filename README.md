@@ -6,6 +6,6 @@ A full Linux Like OS written in Python!!
 > [!warning]
 > All code is written with the help of AI
 >
-> ~~[(arena.ai)](https://arena.ai/agent) Agent~~
+> [(arena.ai)](https://arena.ai/agent) Agent
 >
 > but nothing else besides the code was made by AI! **i.e. icons, tests and idea are not AI**
